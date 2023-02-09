@@ -1,2 +1,2 @@
-I am learning Shell permissions
 #!/bin/bash
+su betty
